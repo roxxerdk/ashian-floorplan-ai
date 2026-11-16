@@ -1,0 +1,143 @@
+
+[
+  {
+    "id": 1,
+    "question": "How many floor plans are available?",
+    "category": "dataset",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "question": "How many spaces have been extracted?",
+    "category": "dataset",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "question": "Which floor plan contains the largest extracted space?",
+    "category": "area",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "question": "What is the average number of extracted spaces per plan?",
+    "category": "statistics",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "question": "Which spaces have an area greater than 20 square metres?",
+    "category": "area",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "question": "Which spaces have an area smaller than 5 square metres?",
+    "category": "area",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "question": "Find all spaces labelled CHAMBRE.",
+    "category": "search",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "question": "Find all spaces labelled CUISINE.",
+    "category": "search",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "question": "Find all spaces labelled GARAGE.",
+    "category": "search",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "question": "Which floor plans contain a BAINS space?",
+    "category": "search",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "question": "What spaces were extracted from floor plan 16?",
+    "category": "plan_lookup",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 12,
+    "question": "What is the largest measured bedroom?",
+    "category": "area",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 13,
+    "question": "Which floor plans have more than 10 extracted spaces?",
+    "category": "statistics",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "question": "How many extracted spaces have no recorded area?",
+    "category": "data_quality",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 15,
+    "question": "Which floor plan has the greatest sum of recorded space areas?",
+    "category": "area",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 16,
+    "question": "How many doors are present across all floor plans?",
+    "category": "refusal",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 17,
+    "question": "Which floor plan has the most windows?",
+    "category": "refusal",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 18,
+    "question": "What is the exact physical length of the largest wall?",
+    "category": "refusal",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 19,
+    "question": "Which room has no windows?",
+    "category": "refusal",
+    "expected_answer": null,
+    "status": "pending"
+  },
+  {
+    "id": 20,
+    "question": "What is the exact total usable area of every building?",
+    "category": "refusal",
+    "expected_answer": null,
+    "status": "pending"
+  }
+]
